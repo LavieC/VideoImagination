@@ -4,7 +4,14 @@ This repository contains an implementation of Video Imagination from a Single Im
 ## Imaginary Video Example
 We randomly pick some imaginary videos synthesized by our framework. The input is a single image from UCF101 dataset, and the output imaginary video contains five frames.
 The following gif picture is a demo of synthesized imaginary video. The network may bring some delay, please wait a while fro the demonstration.
-![gif](https://github.com/gitpub327/VideoImagination/blob/master/Imaginary_Video.gif)
+> Imaginary Video 
+> 
+> ![gif](https://github.com/gitpub327/VideoImagination/blob/master/Imaginary_Video.gif)
+
+> Input image
+> 
+>![im](https://github.com/gitpub327/VideoImagination/blob/master/Example_of_Input_Image.png)
+
 
 ## Data
 The framework can be trained on three datasets : moving MNIST, 2D shape, UCF101. No pre-process is needed except normalizing images to be in the range [0, 1].
