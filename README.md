@@ -1,5 +1,5 @@
 # Video Imagination from a Single Image with Transformation Generation
-This repository contains an implementation of Video Imagination from a Single Image with Transformation Generation. The framework can synthesize multiple imaginary video from a single image.
+This repository contains an implementation of [Video Imagination from a Single Image with Transformation Generation](https://dl.acm.org/citation.cfm?id=3126737). The framework can synthesize multiple imaginary video from a single image.
 
 ## Imaginary Video Example
 We randomly pick some imaginary videos synthesized by our framework. The input is a single image from UCF101 dataset, and the output imaginary video contains five frames.
